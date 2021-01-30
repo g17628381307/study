@@ -27,3 +27,9 @@ body,
   .site-layout .site-layout-background {
     background: #fff;
   }
+  .ant-layout-sider-children {
+    background: #fff;
+  }
+.ant-menu-item ant-menu-item-only-child ant-menu-item-selected {
+    background-color: #fff;
+}
